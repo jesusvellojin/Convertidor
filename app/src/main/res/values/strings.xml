@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+    <string name="texto_titulo">Combertidor de Moneda</string>
+    <string name="texto_convertir_a">Escoja la moneda que desea convertir</string>
+    <string name="peso">Peso(COL)</string>
+    <string name="dolar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="texto_moneda_layout">Valor a convertir</string>
+    <string name="convercion_moneda">Escoja la moneda a la que quiere convertir</string>
+    <string name="convertir_boton_texto">Convertir</string>
+</resources>
